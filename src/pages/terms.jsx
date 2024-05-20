@@ -111,7 +111,7 @@ export default function Terms(){
             </div>
 
             <footer className="w-full mt-10 py-4 bg-neutral-100 text-center">
-                    <h1>Lorem Ipsum Dolor Amet</h1>
+                    <h1>All Rights Reserved Kaizen Global 2024</h1>
             </footer>
         </div>
 
