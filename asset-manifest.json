@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hr-assistancet/static/css/main.3bdc9bc0.css",
+    "main.js": "/hr-assistancet/static/js/main.e1443735.js",
+    "static/js/453.8c0f6e4f.chunk.js": "/hr-assistancet/static/js/453.8c0f6e4f.chunk.js",
+    "static/media/hr.png": "/hr-assistancet/static/media/hr.7cedd75475fa8b8b5879.png",
+    "static/media/logo.svg": "/hr-assistancet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hr-assistancet/index.html",
+    "main.3bdc9bc0.css.map": "/hr-assistancet/static/css/main.3bdc9bc0.css.map",
+    "main.e1443735.js.map": "/hr-assistancet/static/js/main.e1443735.js.map",
+    "453.8c0f6e4f.chunk.js.map": "/hr-assistancet/static/js/453.8c0f6e4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdc9bc0.css",
+    "static/js/main.e1443735.js"
+  ]
+}
